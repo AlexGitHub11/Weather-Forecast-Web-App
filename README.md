@@ -11,6 +11,6 @@ days you wish to forecast the weather for.
 Icon display: The data can be displayed with weather icons for the
 forecasted period
 
-Grath display: The data can be displayed in a graph format for the forecasted
+Graph display: The data can be displayed in a graph format for the forecasted
 period.
 
