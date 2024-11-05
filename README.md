@@ -14,3 +14,4 @@ forecasted period
 Graph display: The data can be displayed in a graph format for the forecasted
 period.
 
+This app was built as part of the python mega course (PMC) taught by Ardit Sulce
