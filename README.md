@@ -1,8 +1,8 @@
 # Weather Forecast App  
 
 ### Overview
-This web application interfaces with a API to retrieve
-weather data, this data is the represented on a web app
+This web application interfaces with an API to retrieve
+weather data, this data is represented on a web app
 created with streamlit in which you can specify the city and
 days you wish to forecast the weather for.
 
