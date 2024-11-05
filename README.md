@@ -4,7 +4,7 @@
 This web application interfaces with a API to retrieve
 weather data, this data is the represented on a web app
 created with streamlit in which you can specify the city and
-days you wish to forecast teh weather for.
+days you wish to forecast the weather for.
 
 ### Features
 
